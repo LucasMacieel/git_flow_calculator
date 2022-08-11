@@ -1,1 +1,3 @@
-Arquivo para teste dos comando da branch feature.
+Arquivo para teste dos comando da branch feature. teste concluido
+
+Falha encontrada
