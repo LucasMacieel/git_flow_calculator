@@ -1,3 +1,5 @@
 Arquivo para teste dos comando da branch feature. teste concluido
 
-Falha encontrada
+falha corrigida.
+
+terminada práica git flow
